@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="party" size="0.150000 0.075000" />
     <ImageTarget name="bun" size="0.150000 0.161060" />
     <ImageTarget name="cat" size="0.150000 0.118956" />
     <ImageTarget name="LOVEDESIGN" size="0.130000 0.130000" />

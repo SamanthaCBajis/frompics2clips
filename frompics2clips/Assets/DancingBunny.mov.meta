@@ -24,10 +24,19 @@ VideoClipImporter:
   flipHorizontal: 0
   pixelAspectRatioNumerator: 1
   pixelAspectRatioDenominator: 1
-  importAudio: 1
+  importAudio: 0
   sourceAudioChannelCount: 0200
   sourceAudioSampleRate: 44ac0000
-  targetSettings: {}
+  targetSettings:
+    0:
+      enableTranscoding: 0
+      codec: 0
+      resizeFormat: 0
+      aspectRatio: 0
+      customWidth: 296
+      customHeight: 340
+      bitrateMode: 2
+      spatialQuality: 2
   output:
     format: 0
     settings:

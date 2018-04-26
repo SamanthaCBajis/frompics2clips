@@ -1,13 +1,14 @@
 # frompics2clips
-An example video of this application built and running on device can be found on my [YouTube Channel.](https://www.youtube.com/watch?v=V_CQ3XSHMOA&t=4s "YouTube")
+An example video of this application built and running on device can be found on my [YouTube Channel](https://youtu.be/nUMD4lBmExw "Youtube")
 <br />
-<br /> ![img-2131](https://user-images.githubusercontent.com/35173600/39192974-79719258-47a8-11e8-9521-91489ad656a2.png)
+<br /> ![img-2138](https://user-images.githubusercontent.com/35173600/39320547-71c1cdc4-4952-11e8-9eb4-ab2b09fbc74b.png)
 <br />
 <br /> This repository contains a Unity mobile application for iOS devices called **_frompics2clips_**. The application is an interactive experience where the user can engage with two real photo images that will bring fun characters to life while looking at the images through their mobile device. Simply build, print, and you have a dance party!
 <br />
 <br /> Please print these images (best would be paste it to a Word document and cut out)
 <br /> ![cat](https://user-images.githubusercontent.com/35173600/39192915-4cecf650-47a8-11e8-8c73-e3369833939e.jpg)
 <br /> ![bunny](https://user-images.githubusercontent.com/35173600/39192593-80afabaa-47a7-11e8-92bc-cd3331ddbcdd.jpeg)
+<br /> ![party](https://user-images.githubusercontent.com/35173600/39320647-bcb54090-4952-11e8-9402-6ac9e43de6e9.jpg)
 
 ## Getting Started
 
@@ -25,9 +26,9 @@ To build and run a copy of this application to your mobile device:
 <br />
 <br /> • On the **_frompics2clips_** repository, go to the green "Clone or download" button and click "Download Zip".
 <br />
-<br /> • Once the zip file has loaded onto your desktop, double click the zip file to open. Navigate to the folder Assets > Videopic.unity and double click the scene to open it in Unity.
+<br /> • Once the zip file has loaded onto your desktop, double click the zip file to open. Navigate to the folder Assets > PCscene.unity and double click the scene to open it in Unity.
 <br />
-<br /> -NOTE! The scene may not be located at the top of the folder. If not, you will have to scroll through the folder to find it. It will be titled exactly Videopic.unity with the Unity logo-
+<br /> -NOTE! The scene may not be located at the top of the folder. If not, you will have to scroll through the folder to find it. It will be titled exactly PCscene.unity with the Unity logo-
 <br />
 <br /> After opening the scene in Unity choose to build to an iOS mobile device:
 <br />

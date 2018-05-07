@@ -747,7 +747,7 @@ GameObject:
   - component: {fileID: 908470744}
   - component: {fileID: 908470743}
   m_Layer: 0
-  m_Name: Audio Source
+  m_Name: Me Too Song
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

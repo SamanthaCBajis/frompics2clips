@@ -55,7 +55,7 @@ To play **_frompics2clips_**:
 • Samantha Cayla Bajis - _Initial work_ - SamBajis
 
 # Acknowledgments
-To make **_ShapestoLife_** possible:
+To make **_frompics2clips_** possible:
 <br /> 
 <br /> • Google Images - Provided the images (gifs) used
 <br /> 
